@@ -1,0 +1,63 @@
+body {
+  background-image: url("https://i.imgur.com/gj3dfLG.png");
+  
+}
+.elem {
+		margin: 12px 0px 20px 0px;
+		padding: 20px;
+}
+
+#tarolo {
+	width: 100%;
+	max-width:900px;
+	margin: auto;
+	background-color: lightgrey;
+}
+h1 {
+	color: black;
+	text-align: left;
+	font-family: "Arial, Verdana, sans-serif";
+}
+
+h2 {
+	color: black;
+	text-align: left;
+	font-family: "Arial, Verdana, sans-serif";	
+}
+
+ul {
+	color: black;
+	text-align: left;
+	font-family: "Arial, Verdana, sans-serif";		
+}
+
+#menu a {
+	text-decoration:none;
+}
+
+p {
+	text-align: center;
+	background-color: orange;
+	border-top: 1px solid orange;
+	bottom: 0;
+}
+
+.kep1 {
+		width: 100%;
+}
+
+.kep2 {
+		width: 200px;
+		float: right;
+		
+}
+
+
+
+.usztatas {
+		 clear:both;
+}
+
+a {
+	text-align: right;	
+}
